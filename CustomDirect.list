@@ -1,3 +1,8 @@
 # 草民电影网
 DOMAIN-SUFFIX,cmdy2020.com
 DOMAIN-KEYWORD,nfmovies
+
+# 阿里 & 蚂蚁
+DOMAIN-KEYWORD,antfin
+DOMAIN-KEYWORD,antgroup
+DOMAIN-KEYWORD,alibaba
