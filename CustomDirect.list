@@ -22,3 +22,6 @@ DOMAIN-KEYWORD,tophub
 
 # 抖音小黄车
 DOMAIN,lianmengapi-hl.snssdk.com
+
+# v2ex
+DOMAIN-SUFFIX,v2ex.com
