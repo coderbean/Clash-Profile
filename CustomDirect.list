@@ -28,3 +28,6 @@ DOMAIN,lianmengapi-hl.snssdk.com
 
 # 美团
 DOMAIN-KEYWORD,meituan
+
+# 今日影视
+DOMAIN-SUFFIX,jinsapi.com
