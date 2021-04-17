@@ -1,7 +1,4 @@
 # 乐播投屏
-DOMAIN-SUFFIX,hpplay.cn
-DOMAIN-SUFFIX,hpplay.com.cn
-DOMAIN-SUFFIX,mirrorcast.cn
-DOMAIN-SUFFIX,mirrorcast.com.cn
-DOMAIN-SUFFIX,mirrorcast.tv
-DOMAIN-SUFFIX,乐播.com
+DOMAIN-SUFFIX,sdkauth.hpplay.cn
+DOMAIN-SUFFIX,adeng.hpplay.cn
+DOMAIN-SUFFIX,ad.hpplay.cn
