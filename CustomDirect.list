@@ -31,3 +31,6 @@ DOMAIN-KEYWORD,meituan
 
 # 今日影视
 DOMAIN-SUFFIX,jinsapi.com
+
+# ddrk
+DOMAIN-SUFFIX,data.flurry.com
