@@ -1,0 +1,29 @@
+payload:
+  # 草民电影网
+  -DOMAIN-SUFFIX,cmdy2020.com
+  -DOMAIN-SUFFIX,hanju2017.com
+  -DOMAIN-SUFFIX,download.jetbrains.com
+  # 奈菲影视
+  -DOMAIN-KEYWORD,nfmovies
+  -DOMAIN-KEYWORD,fztxylgy.com
+  # 91美剧网
+  -DOMAIN-SUFFIX,91mjw.com
+  # 阿里 & 蚂蚁
+  -DOMAIN-KEYWORD,antfin
+  -DOMAIN-KEYWORD,antgroup
+  -DOMAIN-KEYWORD,alibaba
+  -DOMAIN-KEYWORD,alipay
+  -DOMAIN-SUFFIX,aliyuncs.com
+  # tophub
+  # DOMAIN-KEYWORD,tophub
+  # 抖音小黄车
+  -DOMAIN,lianmengapi-hl.snssdk.com
+  # v2ex
+  # DOMAIN-KEYWORD,v2ex
+  # 美团
+  -DOMAIN-KEYWORD,meituan
+  # 今日影视
+  -DOMAIN-SUFFIX,jinsapi.com
+  # ddrk
+  -DOMAIN-SUFFIX,data.flurry.com
+  -DOMAIN-SUFFIX,ddrk.me
