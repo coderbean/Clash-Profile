@@ -4,8 +4,8 @@
 #     type: http
 #     behavior: classical
 #     path: ./rule_provider/CustomDirect.yaml
-#     url: "xxxx"
+#     url: "https://raw.githubusercontent.com/coderbean/Clash-Profile/main/Ruleset/CustomDirect.yaml"
 #     interval: 86400
 #RULE-SET,CustomDirect,DIRECT
 payload:
-   - DOMAIN-SUFFIX,1password.com
+  - DOMAIN-SUFFIX,1password.com
