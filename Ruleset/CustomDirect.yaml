@@ -1,0 +1,11 @@
+#自定义直连列表ruleset
+# rule-providers:
+#   CustomDirect:
+#     type: http
+#     behavior: classical
+#     path: ./rule_provider/CustomDirect.yaml
+#     url: "xxxx"
+#     interval: 86400
+#RULE-SET,CustomDirect,DIRECT
+payload:
+   - DOMAIN-SUFFIX,1password.com
