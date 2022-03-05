@@ -1,0 +1,11 @@
+#自定义直连列表ruleset
+# rule-providers:
+#   Podcast:
+#     type: http
+#     behavior: classical
+#     path: ./rule_provider/Podcast.yaml
+#     url: "https://raw.githubusercontent.com/coderbean/Clash-Profile/main/Ruleset/Apple/US/Podcast.yaml"
+#     interval: 86400
+#RULE-SET,Podcast,HK-fallback
+payload:
+  - DOMAIN-SUFFIX, amp-api.podcasts.apple.com
