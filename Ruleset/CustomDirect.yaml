@@ -9,3 +9,13 @@
 #RULE-SET,CustomDirect,DIRECT
 payload:
   - DOMAIN-SUFFIX,ifconfig.pro
+  - DOMAIN-SUFFIX,tencent-cloud.net
+  # > Apple News（在 Global 里面，产生了副作用，因此加入直连）
+  - DOMAIN,gateway.icloud.com
+  - DOMAIN-SUFFIX,apple.news
+  - DOMAIN,news-assets.apple.com
+  - DOMAIN,news-client.apple.com
+  - DOMAIN,news-client-search.apple.com
+  - DOMAIN,news-edge.apple.com
+  - DOMAIN,news-events.apple.com
+  - DOMAIN,apple.comscoreresearch.com
