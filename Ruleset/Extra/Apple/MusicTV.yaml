@@ -1,0 +1,12 @@
+#自定义apple music tv列表ruleset
+# rule-providers:
+#   CustomDirect:
+#     type: http
+#     behavior: classical
+#     path: ./rule_provider/MusicTV.yaml
+#     url: "https://raw.githubusercontent.com/coderbean/Clash-Profile/main/Ruleset/MusicTV.yaml"
+#     interval: 86400
+#RULE-SET,MusicTV,US-fallback
+payload:
+  # Music TV
+  - DOMAIN,tv.applemusic.com
