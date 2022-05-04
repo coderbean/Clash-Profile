@@ -10,6 +10,9 @@
 payload:
   - DOMAIN-SUFFIX,ifconfig.pro
   - DOMAIN-SUFFIX,tencent-cloud.net
+  # > 免流机场
+  - DOMAIN-SUFFIX,dsaver.shop
+  - DOMAIN-SUFFIX,kjabdglahfuvadcvbaregyh.space
   # > Apple News（在 Global 里面，产生了副作用，因此加入直连）
   - DOMAIN,gateway.icloud.com
   - DOMAIN-SUFFIX,apple.news
