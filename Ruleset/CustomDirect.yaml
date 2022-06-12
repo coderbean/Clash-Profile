@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,dsaver.shop
   # > 机场订阅连接
   - DOMAIN-SUFFIX,sublink.650520.xyz
+  - DOMAIN-SUFFIX,rss.teacat001.xyz
   # > Apple News（在 Global 里面，产生了副作用，因此加入直连）
   - DOMAIN,gateway.icloud.com
   - DOMAIN-SUFFIX,apple.news
