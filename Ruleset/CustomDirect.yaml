@@ -11,7 +11,7 @@ payload:
   - DOMAIN-SUFFIX,ifconfig.pro
   - DOMAIN-SUFFIX,tencent-cloud.net
   # > 免流机场
-  - DOMAIN-SUFFIX,dsaver.shop
+  # - DOMAIN-SUFFIX,dsaver.shop
   # > 机场订阅连接
   - DOMAIN-SUFFIX,sublink.650520.xyz
   - DOMAIN-SUFFIX,rss.teacat001.xyz
