@@ -35,3 +35,6 @@ DOMAIN-SUFFIX,jinsapi.com
 # ddrk
 DOMAIN-SUFFIX,data.flurry.com
 DOMAIN-SUFFIX,ddrk.me
+
+# misakaf emby
+DOMAIN-SUFFIX,cf2.misakaf.org
