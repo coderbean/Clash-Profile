@@ -13,6 +13,8 @@ payload:
   - DOMAIN-SUFFIX,4837.misakaf.org
   # 终点站三妹走直连
   - DOMAIN-SUFFIX,pub3.emby.wtf
+  # 终点站四妹走直连
+  - DOMAIN-SUFFIX,pub4.emby.wtf
   # > 免流机场
   # - DOMAIN-SUFFIX,dsaver.shop
   # > 机场订阅连接
