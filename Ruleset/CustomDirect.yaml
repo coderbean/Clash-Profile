@@ -11,6 +11,8 @@ payload:
   - DOMAIN-SUFFIX,ifconfig.pro
   - DOMAIN-SUFFIX,tencent-cloud.net
   - DOMAIN-SUFFIX,4837.misakaf.org
+  # 终点站大妹走直连
+  - DOMAIN-SUFFIX,pub1.emby.wtf
   # > 免流机场
   # - DOMAIN-SUFFIX,dsaver.shop
   # > 机场订阅连接
