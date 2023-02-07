@@ -10,7 +10,8 @@
 payload:
   - DOMAIN-SUFFIX,ifconfig.pro
   - DOMAIN-SUFFIX,tencent-cloud.net
-  - DOMAIN-SUFFIX,4837.misakaf.org
+  # misakaf 自建 cdn 走直连
+  - DOMAIN-SUFFIX,cdn.misakaf.org
   # 终点站二妹走直连
   - DOMAIN-SUFFIX,pub2.emby.wtf
   # 终点站四妹走直连
