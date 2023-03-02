@@ -16,6 +16,8 @@ payload:
   - DOMAIN-SUFFIX,pub2.emby.wtf
   # 终点站四妹走直连
   - DOMAIN-SUFFIX,pub4.emby.wtf
+  # 梓澪の妙妙屋
+  - DOMAIN-SUFFIX,zby.zi0.icu
   # > 免流机场
   # - DOMAIN-SUFFIX,dsaver.shop
   # > 机场订阅连接
