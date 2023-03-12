@@ -8,6 +8,7 @@
 #     interval: 86400
 #RULE-SET,CustomDirect,DIRECT
 payload:
+  - DOMAIN-SUFFIX,xiaoya.zhangbo.site
   - DOMAIN-SUFFIX,ifconfig.pro
   - DOMAIN-SUFFIX,tencent-cloud.net
   # misakaf 自建 cdn 走直连
