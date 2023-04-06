@@ -19,6 +19,8 @@ payload:
   - DOMAIN-SUFFIX,pub4.emby.wtf
   # 梓澪の妙妙屋
   - DOMAIN-SUFFIX,zby.zi0.icu
+  # Alist API
+  - DOMAIN-SUFFIX,api.nn.ci
   # > 免流机场
   # - DOMAIN-SUFFIX,dsaver.shop
   # > 机场订阅连接
