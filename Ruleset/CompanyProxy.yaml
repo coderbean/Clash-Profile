@@ -1,0 +1,14 @@
+#自定义直连列表ruleset
+# rule-providers:
+#   CustomProxy:
+#     type: http
+#     behavior: classical
+#     path: ./rule_provider/CustomProxy.yaml
+#     url: "https://raw.githubusercontent.com/coderbean/Clash-Profile/main/Ruleset/CustomProxy.yaml"
+#     interval: 86400
+#RULE-SET,CustomProxy,DIRECT
+payload:
+  # 播客无法浏览某些作品
+  - DOMAIN-SUFFIX, amp-api.podcasts.apple.com
+  # iBooks 预览和购买书籍
+  - DOMAIN-SUFFIX, buy.itunes.apple.com
