@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX, byted.org, DIRECT
-  - DOMAIN-SUFFIX, bytedance.net, DIRECT
-  - DOMAIN-SUFFIX, zijieapi.com, DIRECT
+  - DOMAIN-SUFFIX, byted.org
+  - DOMAIN-SUFFIX, bytedance.net
+  - DOMAIN-SUFFIX, zijieapi.com
