@@ -11,16 +11,6 @@ payload:
   - DOMAIN-SUFFIX,xiaoya.zhangbo.site
   - DOMAIN-SUFFIX,ifconfig.pro
   - DOMAIN-SUFFIX,tencent-cloud.net
-  # misakaf 走直连
-  - DOMAIN-SUFFIX,cdn2.misakaf.org
-  # 终点站二妹走直连
-  - DOMAIN-SUFFIX,pub2.emby.wtf
-  # 终点站四妹走直连
-  - DOMAIN-SUFFIX,pub4.emby.wtf
-  # 梓澪の妙妙屋
-  - DOMAIN-SUFFIX,zby.zi0.icu
-  # Alist API
-  - DOMAIN-SUFFIX,api.nn.ci
   # > 免流机场
   # - DOMAIN-SUFFIX,dsaver.shop
   # > 机场订阅连接
