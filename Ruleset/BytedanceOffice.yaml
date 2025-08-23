@@ -4,6 +4,9 @@ payload:
   - DOMAIN-SUFFIX,bytedance.net
   - DOMAIN-SUFFIX,byteintl.net
   - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,tiktok-row.org
+  - DOMAIN-SUFFIX,tiktok-row.net
+  - DOMAIN-SUFFIX,tiktok-usts.org 
   - DOMAIN-SUFFIX,tiktokd.org
   - DOMAIN-SUFFIX,tiktokd.net
   - DOMAIN-SUFFIX,zijieapi.com
