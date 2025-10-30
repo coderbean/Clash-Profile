@@ -3,8 +3,6 @@
 
 DOMAIN-SUFFIX,cdn2.misakaf.org
 DOMAIN-SUFFIX,embyvip.misakaf.org
-# aws的全球CDN, misaka emby服务用上了
-DOMAIN-SUFFIX,cloudfront.net
 # FacMata::Matrix 测试机场emby，直连不能用就不续费了
 DOMAIN-SUFFIX,313445.xyz
 # SNTP Media Lite 公益服，和机场不绑定(也是守候网络的Emby服务器)
