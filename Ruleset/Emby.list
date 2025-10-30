@@ -1,0 +1,19 @@
+# 规则名称: Emby
+# 规则备注：可以同时使用在 Loon 和 mihomo 
+
+DOMAIN-SUFFIX,cdn2.misakaf.org
+DOMAIN-SUFFIX,embyvip.misakaf.org
+DOMAIN-SUFFIX,cloudfront.net # aws的全球CDN, misaka emby服务用上了
+DOMAIN-SUFFIX,313445.xyz # FacMata::Matrix 测试机场emby，直连不能用就不续费了
+DOMAIN-SUFFIX,cn2gias.uk # SNTP Media Lite 公益服，和机场不绑定(也是守候网络的Emby服务器)
+DOMAIN-SUFFIX,hohai.eu.org # hohai 公益服
+DOMAIN-SUFFIX,shrekmedia.org # shrekmedia 公益服
+DOMAIN-SUFFIX,lyrebirdemby.com # lyrebird 琴鸟 公益服
+DOMAIN-SUFFIX,2580852.xyz # lyrebird 琴鸟 公益服
+DOMAIN-SUFFIX,niceduck.lol # 机场EMBY
+DOMAIN-SUFFIX,emby.moe # 机场EMBY
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,term.wtf
+DOMAIN-SUFFIX,mius.uk
+DOMAIN-SUFFIX,zox.show
+DOMAIN-SUFFIX,oceancloud.asia
