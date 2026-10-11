@@ -1,0 +1,9 @@
+# 规则名称: Emby
+# 规则备注：可以同时使用在 Loon 和 mihomo （不支持行内注释，注释需要单起一行）
+
+DOMAIN-SUFFIX,cfemby.8g8g.cloud
+DOMAIN-SUFFIX,s2.array2026.cc
+DOMAIN-SUFFIX,s3.array2026.com
+DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
+DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca
+DOMAIN-SUFFIX,play.miaona.tv
